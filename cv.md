@@ -30,3 +30,7 @@ function multiply(a, b) {
 }
 ```
 
+## Projects
+
+- [InkHouse](https://belovadarya.github.io/inkhouse/)
+
