@@ -7,3 +7,9 @@
 - **Phone:** +79162955090 
 - **Discord:** piromingu (@belovadarya)
 
+## About Me
+
+I like to interacting with people, find an approach to different people and overcome difficulties. And, of course i like web development. My goal is to become an experienced frontend developer
+
+It is very important for me to learn something new day, improve my skills and become better every day!
+
