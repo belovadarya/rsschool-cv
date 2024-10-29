@@ -34,3 +34,13 @@ function multiply(a, b) {
 
 - [InkHouse](https://belovadarya.github.io/inkhouse/)
 
+## Education
+
+- [Лаборатория качества](https://qaschool.ru/)
+  - [First ONline Institute of Testing](https://qaschool.ru/school-center/certificate.php?id=23035&lang=en)
+- [Stepik:](https://stepik.org/)
+  - [Python Generation: course for beginners](https://stepik.org/cert/2225414?lang=en)
+- [RS School](https://rs.school/) (in process…)
+  - JavaScript/Front-end 2024Q4
+
+  
