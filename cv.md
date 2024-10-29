@@ -43,4 +43,8 @@ function multiply(a, b) {
 - [RS School](https://rs.school/) (in process…)
   - JavaScript/Front-end 2024Q4
 
-  
+## Languages
+
+- Russian (native)
+- English (A2) - I am constantly improving my English language skills
+
