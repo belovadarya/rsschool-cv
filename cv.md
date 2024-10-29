@@ -13,3 +13,12 @@ I like to interact with people, find an approach to different people and overcom
 
 It is very important for me to learn something new, improve my skills and become better every day!
 
+## Skills
+
+- HTML
+- CSS (SCSS)
+- JS (basic)
+- git
+- Python (basic)
+- SQL (JOIN, INSERT, UPDATE, DELETE) - DBeaver
+
