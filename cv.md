@@ -22,3 +22,11 @@ It is very important for me to learn something new, improve my skills and become
 - Python (basic)
 - SQL (JOIN, INSERT, UPDATE, DELETE) - DBeaver
 
+## Code Example
+
+```
+function multiply(a, b) {
+  return a * b
+}
+```
+
